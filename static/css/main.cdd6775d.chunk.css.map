@@ -1,0 +1,1 @@
+{"version":3,"sources":["global.scss"],"names":[],"mappings":"AAAA,KACE,2CAAA,CAGF,EACE,QAAA,CACA,SAAA","file":"main.cdd6775d.chunk.css","sourcesContent":["body {\r\n  font-family: \"Courier New\", Courier, monospace;\r\n}\r\n\r\n* {\r\n  margin: 0;\r\n  padding: 0;\r\n}\r\n"]}
